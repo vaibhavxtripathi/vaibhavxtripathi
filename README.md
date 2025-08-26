@@ -30,10 +30,10 @@
 
 ---
 
-## 🏆 Badges  
+## 💻 Contibutions  
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vaibhavxtripathi&theme=onedark" alt="Vaibhav's trophies"/>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=vaibhavxtripathi&theme=dark&hide_border=false" alt="Vaibhav's trophies"/>
   </a>
 </p>
 

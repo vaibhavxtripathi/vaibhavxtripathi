@@ -33,7 +33,7 @@
 ## 🏆 Badges  
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vaibhavxtripathi&theme=onedark&no-frame=true&margin-w=10&row=1&column=6" alt="Vaibhav's trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=vaibhavxtripathi&theme=onedark" alt="Vaibhav's trophies"/>
   </a>
 </p>
 

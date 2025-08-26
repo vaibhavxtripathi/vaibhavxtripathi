@@ -33,7 +33,7 @@
 ## 💻 Contibutions  
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=vaibhavxtripathi&theme=dark&hide_border=false" alt="Vaibhav's trophies"/>
+    <img src="[https://nirzak-streak-stats.vercel.app/?user=vaibhavxtripathi&theme=dark&hide_border=false](https://nirzak-streak-stats.vercel.app/?user=vaibhavxtripathi&theme=transparent&hide_border=true)" alt="Vaibhav's trophies"/>
   </a>
 </p>
 
@@ -41,5 +41,5 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavxtripathi&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavxtripathi&show_icons=true&locale=en&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavxtripathi&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)" alt="Top Languages" />
 </p>
